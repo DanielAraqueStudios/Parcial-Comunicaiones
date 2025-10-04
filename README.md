@@ -1,6 +1,6 @@
 # Proyecto de Descubrimiento de Red
 
-![NMAP Scan](nmap_scan_image.png)
+![NMAP Scan](wireshark.png)
 
 ## Descripción del Proyecto
 
