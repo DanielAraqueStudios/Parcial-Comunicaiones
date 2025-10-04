@@ -120,5 +120,5 @@ AND latency_ms IS NOT NULL;
 
 ## Autor
 
-Sistema de Descubrimiento de Red para Análisis de Red Universitaria
+Daniel García Araque
 Código: 7004185
